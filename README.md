@@ -19,6 +19,6 @@ Q4) Design automation script which accept directory name and mail id from user a
     file in that directory which contains information of running processes as its name, PID,
     Username. After creating log file send that log file to the specified mail.
     
-    Usage : ProcInfoLog.py Demo Marvellousinfosystem@gmail.com
+    Usage : ProcInfoLog.py Demo abc******@gmail.com
     Demo is name of Directory.
     abc******xx@gmail.com is the mail id.
